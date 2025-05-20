@@ -1,1 +1,10 @@
-{"scripts": {"test": "echo Running Tests && exit 0"}}
+{
+  "name": "my-node-app",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo Running Tests && exit 0"
+  },
+  "dependencies": {
+    "serialize-javascript": "^1.6.1"
+  }
+}
